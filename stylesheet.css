@@ -1,0 +1,23 @@
+.font-styles{
+    font-family: Sans-Serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(0, 165, 124);
+}
+
+h1{
+    color:rgb(0, 0, 0);
+}
+
+body {
+    background: url(https://i.pinimg.com/originals/36/ca/0f/36ca0f9fccba5ce52bd976b1ff5bef4f.png);
+    background-size: 1400px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h5 {
+    margin: 0px;
+}
